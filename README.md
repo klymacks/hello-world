@@ -1,3 +1,3 @@
 # hello-world
-# klymacks is here
-# Excited to learn more about programming
+klymacks here
+I'm excited to learn more about programming
